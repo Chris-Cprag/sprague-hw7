@@ -1,0 +1,3 @@
+echo "Building the File"
+g++ makeLED-hw7.cpp -o makeLED-hw7
+echo "File Built"

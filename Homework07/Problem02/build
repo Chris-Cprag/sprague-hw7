@@ -1,0 +1,3 @@
+echo "Building File"
+g++ myCopier.cpp -o myCopier
+echo "File Built Successfully"
